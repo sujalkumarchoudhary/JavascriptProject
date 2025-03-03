@@ -47,17 +47,17 @@ body{
 /* responsive for mobile */
 @media screen and (max-width: 600px){
     .card{
-        width: 50vw;
-        height: 30vh;
+        width: 65vw;
+        height: 45vh;
         position: absolute;
-        top: 25%;
-        left: 35%;
+        top: 10%;
+        left: 17%;
     }
     .user{
         width: 80vw;
         height: 20vh;
         position: absolute;
-        top: 55%;
+        top: 70%;
         left: 12%;
     }
     .inp{
